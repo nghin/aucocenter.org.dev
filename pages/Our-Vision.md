@@ -1,26 +1,26 @@
 ---
 layout: page-fullwidth
-subheadline: "Southeast Asian Arts & Culture Coalition"
+subheadline: "Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center"
 title: "Our Vision"
-meta_teaser: "Southeast Asian Arts & Culture Coalition"
-teaser: "Promote - Preserve - Practice"
+meta_teaser: "Vietnamese Cultural Center San Francisco"
+teaser: "Principles and Purpose"
 permalink: /english/our-vision/
 breadcrumb: true
 header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">About SEAACC-SF</h2>
+<div class="medium-4 medium-push-8 columns">
+<h2 style="margin: 0px">About Au Co</h2>
         {% include about-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <img width="424" src="{{ site.urlimg }}seaacc-logo.png">
 
-SEAACC’s vision stems from the 3 P’s:
-
-- <strong>Preserve</strong> – Embrace and cultivate the historical impact that arts and culture has provided within the Southeast Asian community.
-- <strong>Promote</strong> – We believe that cultural advancement and ethnic identity comes from an awareness of how one’s roots play a significant role in community development. 
-- <strong>Practice</strong> – Education and theory is useless without application. Different cultural and social activities are held in the San Francisco Bay Area so that anyone and everyone can be involved and engaged within the community.
+<strong>Principles</strong><br />
+&bull;&nbsp;Operate as a non-profit, public interest organization, serving the common interest of the community, and the Vietnamese community in particular<br />
+&bull;&nbsp;Operate based on volunteer and not-for-profits<br />
+<strong>Purpose</strong><br />
+To promote and preserve the language and the broad-minded humanity culture of the Vietnamese people
 
 </div><!-- /.row -->

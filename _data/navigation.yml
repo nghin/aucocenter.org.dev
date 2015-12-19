@@ -15,14 +15,3 @@
 
 - title: "About SEAACC"
   side: left
-  dropdown:
-  - title: "About SEAACC - Cambodia"
-    url: "/cambodia/"
-  - title: "About SEAACC - Laos"
-    url: "/"
-  - title: "About SEAACC - Myanmar"
-    url: "/myanmar/"
-  - title: "About SEAACC - Thailand"
-    url: "/thailand/"
-  - title: "About SEAACC - Vietnam"
-    url: "/vietnam/"
