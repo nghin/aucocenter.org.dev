@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/english/who-we-are/">Who We Are</a><p style="font-weight: normal;">Au Co Vietnamese Cultural Center</p></li>
+      <li><a href="{{ site.projectname }}/english/our-vision/">Our Vision</a><p style="font-weight: normal;">Au Co's Principles & Purpose</p></li>
+      <li><a href="{{ site.projectname }}/english/mission-statement/">Mission Statement</a><p style="font-weight: normal;">Vietnamese Language and Youth Development Programs</p></li>
+</ul>

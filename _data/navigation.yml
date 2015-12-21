@@ -13,5 +13,14 @@
   url: "/contact/"
   side: left
 
-- title: "About SEAACC"
+- title: "About Au Co"
   side: left
+  dropdown:
+  - title: "Programs"
+    url: "/about/programs/"
+  - title: "Events Calendar"
+    url: "/about/events-calendar/"
+  - title: "Brochure"
+    url: "/about/brochure/"
+  - title: "Direction to Au Co"
+    url: "/about/direction/"

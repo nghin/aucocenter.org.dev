@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Southeast Asian Arts & Culture Coalition"
+title: "Au Co Vietnamese Cultural Center"
 permalink: "/contact/"
 header:
     image_fullwidth: "seaaccsf-home-eng-banner.jpg"
@@ -8,11 +8,14 @@ header:
 
 <img width="424" src="{{ site.urlimg }}seaacc-logo.png">
 
-<p style="line-height: 1.2rem">
-Please contact us via email: contact@seaacc-sf.org<br />
-<!-- Cambodia -->
-សូមផ្ញើ ទាំងអស់ ឆ្លើយឆ្លង ទៅ: contact@seaacc-sf.org<br />
-<!-- Laos -->
-<span><font face="Alice_5" size="5">dti5oklq ’ j 0=h7;k,8yf8+m5dvaowxmjuG </font> contact@seaacc-sf.org<br /></span>
+We operate every Saturday at:
+<strong>MARTIN L. KING JR. ACADEMIC MIDDLE SCHOOL</strong>
+350 GIRARD ST. (between Bacon and Burrows)
+SAN FRANCISCO, CA 94134
+<p style="line-height: 1.5rem;">
+<strong>Mailing address:</strong><br />
+<span style="padding-left: 15px;">Au Co Vietnamese Cultural Center</span><br />
+<span style="padding-left: 15px;">P.O. Box 347042, San Francisco CA, 94134</span>
 </p>
-<p>or facebook: <a href="https://www.facebook.com/seaacc">https://www.facebook.com/seaacc</a></p>
+<strong>E-mail</strong>: webmaster@aucocenter.org
+<strong>Telephone</strong>: 415-828-4754 or 415-298-3705

@@ -5,7 +5,7 @@ title: "Our Vision"
 meta_teaser: "Vietnamese Cultural Center San Francisco"
 teaser: "Principles and Purpose"
 permalink: /english/our-vision/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->
@@ -20,6 +20,7 @@ header: no
 <strong>Principles</strong><br />
 &bull;&nbsp;Operate as a non-profit, public interest organization, serving the common interest of the community, and the Vietnamese community in particular<br />
 &bull;&nbsp;Operate based on volunteer and not-for-profits<br />
+
 <strong>Purpose</strong><br />
 To promote and preserve the language and the broad-minded humanity culture of the Vietnamese people
 
