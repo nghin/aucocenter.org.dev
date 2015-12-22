@@ -4,12 +4,12 @@ subheadline: "Au Co&nbsp;&dash;&nbsp;Vietnamese Cultural Center"
 title: "Mission Statement"
 meta_teaser: "Vietnamese Cultural Center San Francisco"
 permalink: /english/mission-statement/
-breadcrumb: false
+breadcrumb: true
 header: no
 ---
 <!--more-->
 <div class="row">
-<div class="bible-index medium-4 medium-push-8 columns">
+<div class="medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">About Au Co</h2>
         {% include about-english %}
 </div><!-- /.medium-4.columns -->

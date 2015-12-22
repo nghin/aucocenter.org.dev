@@ -5,7 +5,7 @@ title: "Who We Are"
 meta_teaser: "Vietnamese Cultural Center"
 teaser: "Au Co Center was originated from the Vietnamese Language Classes established by the Vietnamese Elderly Mutual Assistant Association of SF (VEMAA) since 1983, one of the first Vietnamese language classes in Northern California . In July 1986, the Center was taken over by volunteer members of Vietnamese Students Association of City College of San Francisco. In November 1988, it was determined that the Center be founded as a non-profit organization under the name Au Co Vietnamese Language School."
 permalink: /english/who-we-are/
-breadcrumb: false
+breadcrumb: true
 header: no
 ---
 <!--more-->

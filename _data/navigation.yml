@@ -17,10 +17,8 @@
   side: left
   dropdown:
   - title: "Programs"
-    url: "/about/programs/"
-  - title: "Events Calendar"
-    url: "/about/events-calendar/"
+    url: "/programs/"
   - title: "Brochure"
-    url: "/about/brochure/"
-  - title: "Direction to Au Co"
-    url: "/about/direction/"
+    url: "/brochure/"
+  - title: "Directions to Au Co"
+    url: "/directions/"

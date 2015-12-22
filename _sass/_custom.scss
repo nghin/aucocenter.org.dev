@@ -1,14 +1,17 @@
-div.bible-index {
-    text-align: left;
+h1, h2, h3, h4, h5, h6 {
+    color: #003366;
+}
+body {
+    color: #314872
+}
+p.gray {
+    color: #999999;
 }
 p.blockquote {
     font-style: italic;
     padding-left: 15px;
     margin: 0 0 20px;
     border-left: 5px solid #d5d5d5;
-}
-p.gray {
-    color: #999999;
 }
 span.text-highlight {
     text-decoration: underline;

@@ -1,17 +1,17 @@
 ---
 layout: page-fullwidth
 subheadline: "Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center"
-title: "Au Co Vietnamese Language Program"
+title: "Au Co's Vietnamese Language Program"
 meta_teaser: "Vietnamese Cultural Center"
 teaser: "The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions for children from 5 through 12 with special exceptions for ages up to 15."
-permalink: /english/programs/vietnamese-language/
-breadcrumb: false
+permalink: /programs/vietnamese-language/
+breadcrumb: true
 header: no
 ---
 <!--more-->
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
-<h2 style="margin: 0px">About Au Co</h2>
+<h2 style="margin: 0px">Au Co's Programs</h2>
         {% include programs-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
