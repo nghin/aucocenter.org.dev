@@ -12,13 +12,13 @@ header: no
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Au Co's Programs</h2>
-        {% include programs-english %}
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
+{% include programs-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
 
 This program focuses on assisting adolescents (not limited to Vietnamese descendants)
- 
+
 - Develop leadership skills through participation in various activities of the Vietnamese community in particular and local communities in general, as well as all cultural events of Au Co Center.
 - Discover and learn the culture and heritage of Vietnamese community through cultural and fine arts activities of Au Co Center.
 

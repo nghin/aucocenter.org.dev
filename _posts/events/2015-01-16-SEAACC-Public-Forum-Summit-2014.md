@@ -13,7 +13,7 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
+<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 <img style="border: 1px solid #ffbbbb" width="100%" src="http://74.220.215.61/~seaaccsf/galleries/images/2014/SEAACC-public-forum/Postcard%204x6%20version%203.jpg">
 

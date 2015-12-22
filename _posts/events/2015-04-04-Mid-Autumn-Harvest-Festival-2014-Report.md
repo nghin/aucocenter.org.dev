@@ -13,7 +13,7 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
+<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
 <tbody>

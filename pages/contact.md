@@ -6,7 +6,7 @@ header:
     image_fullwidth: "seaaccsf-home-eng-banner.jpg"
 ---
 
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
 
 We operate every Saturday at:
 <strong>MARTIN L. KING JR. ACADEMIC MIDDLE SCHOOL</strong>

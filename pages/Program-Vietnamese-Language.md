@@ -12,15 +12,15 @@ header: no
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Au Co's Programs</h2>
-        {% include programs-english %}
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
+{% include programs-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
 
 ### Target Audience
 
 The Weekend Vietnamese Program serves children from 5 to 12, exception may be granted to those up to 15, case by case.
- 
+
 ### Level Classification
 
 The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions. Classes are on Saturday, approximately 3 and a half-hour each. Program for each grade level meets about 40 times/year with 2 semesters and normally follows the schedule of SF public schools.
@@ -36,7 +36,7 @@ The program teaches Vietnamese language for two levels: Basic and Intermediate, 
 To attain Basic level, a student must successfully complete Grade Level 1, 2, and 3.
 To attain Intermediate level, students must successfully complete Grade Levels 4, 5, and 6.
 Kindergarten is for 5 year-old kids only.
- 
+
 ### Goals of Class Levels
 
 <div>
@@ -59,7 +59,7 @@ Kindergarten is for 5 year-old kids only.
 <li>Learn traditional characters and morality, traditional values and heritage of the Vietnamese</li>
 </ul>
 </div>
- 
+
 ### Textbook & Teaching Materials
 
 Textbooks and teaching materials are written in Vietnamese by grade level to attain the goals of each grade level. Textbooks for Grade Level 1, 2, and 3 are intended for beginners with age from 6 to 8. The materials still can be used to teach beginners who are older than 9, but they may learn at a faster pace.
@@ -69,7 +69,7 @@ Textbooks and materials for basic level (Grade Level 1, 2, 3) and K are written 
 Textbooks and materials for intermediate level (Grade Level 4, 5, 6) are written with the purpose of improving reading comprehension and basic writing skill for essay.
 
 Please read “How to Use Textbook” section of each textbook for more information.
- 
+
 <div>
 <strong>Content of Kindergarten's materials</strong>
 <ul>

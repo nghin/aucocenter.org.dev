@@ -12,13 +12,13 @@ header: no
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Au Co's Programs</h2>
-        {% include programs-english %}
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
+{% include programs-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
 
-Au Co's Cultural Programs organize or sponsor annual traditional cultural events such as   
-<ul> 
+Au Co's Cultural Programs organize or sponsor annual traditional cultural events such as
+<ul>
 <li>Tet - Vietnamese traditional New Year, and Mid-Autumn Festival.</li>
 <li>Academic Excellence Awards and Scholarship Awards to maintain the tradition of academic excellence. traditional music and dance workshops.</li>
 <li>traditional music and dance performances, talent shows.</li>

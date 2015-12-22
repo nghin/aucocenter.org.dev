@@ -11,11 +11,10 @@ header: no
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">Au Co's Programs</h2>
-        {% include programs-english %}
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
+{% include programs-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
-
 
 Senior Program (weekend) provides special programs for seniors for maintaining good health, and promoting cultural awareness and understanding between the older and younger generations, leading to healthier and productive lives, and creating opportunities for meaningful involvement in the communities where they live.
 

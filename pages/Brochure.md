@@ -12,13 +12,8 @@ header: no
 <div class="medium-4 medium-push-8 columns">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
-
-<img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/Au-Co-Brochure-2010-page1.jpg">
-<p>&nbsp;</p>
-<img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/Au-Co-Brochure-2010-page2.jpg">
-<p>&nbsp;</p>
-<img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/AUCO_Productions-page-1.jpg">
-<p>&nbsp;</p>
-<img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/AUCO_Productions-page-2.jpg">
+<p><img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/Au-Co-Brochure-2010-page1.jpg"></p>
+<p><img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/Au-Co-Brochure-2010-page2.jpg"></p>
+<p><img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/AUCO_Productions-page-1.jpg"></p>
+<p><img width="100%" height="auto" align="center" style="border: 1px solid #cccccc;" alt="" src="/images/AUCO_Productions-page-2.jpg"></p>
 </div><!-- /.row -->

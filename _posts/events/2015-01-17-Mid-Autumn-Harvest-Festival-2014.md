@@ -13,7 +13,7 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
+<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 We will have representatives from the Burmese, Cambodian, Laotian, Thai, and Vietnamese communities, as well as the collaboration of the SF Wushu Team participating again. Come celebrate the Mid-Autumn Harvest Festival with us and learn more about the Southeast Asian cultures!
 

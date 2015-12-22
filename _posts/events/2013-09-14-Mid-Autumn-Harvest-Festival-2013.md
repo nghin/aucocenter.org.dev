@@ -13,7 +13,7 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
+<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 <p style="font-style: italic; font-weight: bold; font-size: 1.0em">
 Date and time: Sept 14th, 2013, 11am-4pm<br />

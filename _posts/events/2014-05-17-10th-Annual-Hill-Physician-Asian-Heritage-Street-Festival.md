@@ -11,12 +11,12 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
+<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 - Date and time: Saturday, May 17th, 2014.
 - Location: Larkin Street, from Grove to Ellis. 11am-6pm.
 
-The AHSC will also have a variety of scrumptious pan Asian delights with an estimated 20-30 food trucks and vendors in attendance. Shoppers will have the chance to purchase the best and most creative handmade arts and crafts items at the Arts and Crafts World Market.  
+The AHSC will also have a variety of scrumptious pan Asian delights with an estimated 20-30 food trucks and vendors in attendance. Shoppers will have the chance to purchase the best and most creative handmade arts and crafts items at the Arts and Crafts World Market.
 
 For the fourth year in a row, the fair will also feature a health section entitled Healthy Living Pavilion. This area of the street fair will comprise of many community health groups and sponsor booths that will collectively promote health and wellness and include a Natural Medicine area.” 1For more info, please visit: www.asianfairsf.com (see Notes)
 

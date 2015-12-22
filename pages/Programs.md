@@ -9,7 +9,7 @@ breadcrumb: false
 header: no
 ---
 <!--more-->
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
 
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 

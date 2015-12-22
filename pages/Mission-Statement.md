@@ -14,7 +14,7 @@ header: no
         {% include about-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img width="424" src="{{ site.urlimg }}seaacc-logo.png">
+<img width="150" src="{{ site.urlimg }}auco-logo.png">
 
 Au  Co Center provides the following programs:
 
