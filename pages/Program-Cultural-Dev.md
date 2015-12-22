@@ -26,9 +26,9 @@ Au Co's Cultural Programs organize or sponsor annual traditional cultural events
 <li>partnering with other communities.</li>
 </ul>
 
-<img width="100%" height="auto" align="center" alt="" src="/images/au-co-cultural-program-01.jpg">
+<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/au-co-cultural-program-01.jpg">
 <p>&nbsp;</p>
-<img width="100%" height="auto" align="center" alt="" src="/images/au-co-cultural-program-02.jpg">
+<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/au-co-cultural-program-02.jpg">
 
 For more information about Youth Team activities, please visit homepage at <a href="http://aucoproductions.weebly.com/index.html">AuCo Productions</a>, or <a href="http://www.facebook.com/aucoproductions">Facebook AuCo Pro</a>
 
