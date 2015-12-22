@@ -1,8 +1,14 @@
 h1, h2, h3, h4, h5, h6 {
-    color: #003366;
+    color: #355A69;
 }
 body {
-    color: #314872
+    color: #295A5F;
+}
+a {
+    color: #507B86;
+}
+.side-nav li a:not(.button) {
+    color: #4F777B;
 }
 p.gray {
     color: #999999;
