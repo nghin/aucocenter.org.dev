@@ -18,5 +18,5 @@ header: no
 
 Senior Program (weekend) provides special programs for seniors for maintaining good health, and promoting cultural awareness and understanding between the older and younger generations, leading to healthier and productive lives, and creating opportunities for meaningful involvement in the communities where they live.
 
-<img width="100%" height="auto" align="center" alt="" src="/images/au-co-senior-program-01.jpg">
+<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/au-co-senior-program-01.jpg">
 </div><!-- /.row -->
