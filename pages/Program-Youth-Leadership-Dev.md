@@ -22,9 +22,9 @@ This program focuses on assisting adolescents (not limited to Vietnamese descend
 - Develop leadership skills through participation in various activities of the Vietnamese community in particular and local communities in general, as well as all cultural events of Au Co Center.
 - Discover and learn the culture and heritage of Vietnamese community through cultural and fine arts activities of Au Co Center.
 
-<img width="100%" height="auto" align="center" alt="" src="/images/au-co-leadership-01.jpg">
+<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/au-co-leadership-01.jpg">
 <p>&nbsp;</p>
-<img width="100%" height="auto" align="center" alt="" src="/images/au-co-leadership-02.jpg">
+<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/au-co-leadership-02.jpg">
 
 For more information about Youth Team activities, please visit homepage at <a href="http://aucoproductions.weebly.com/index.html">AuCo Productions</a>, or <a href="http://www.facebook.com/aucoproductions">Facebook AuCo Pro</a>
 

@@ -25,6 +25,6 @@ To promote and preserve the language and the broad-minded humanity culture of th
 widget2:
   title: "WHO WE ARE"
   url: '/english/who-we-are/'
-  text: '<p><img width="150" src="/images/auco-logo.png"></p>Au Co Center was originated from the Vietnamese Language Classes established by the Vietnamese Elderly Mutual Assistant Association of SF (VEMAA) since 1983, one of the first Vietnamese language classes in Northern California.'
+  text: '<p><img width="150" src="images/auco-logo.png"></p><p>Au Co Center was originated from the Vietnamese Language Classes established by the Vietnamese Elderly Mutual Assistant Association of SF (VEMAA) since 1983, one of the first Vietnamese language classes in Northern California.</p>'
 permalink: /index.html
 ---

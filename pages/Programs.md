@@ -15,18 +15,18 @@ header: no
 
 <ul class="side-nav">
       <li>
-      <a href="{{ site.projectname }}/programs/vietnamese-language/">Vietnamese Language Programs</a>
+      <a href="{{ site.url }}/programs/vietnamese-language/">Vietnamese Language Programs</a>
       <p style="font-weight: normal;">The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions for children from 5 through 12 with special exceptions for ages up to 15.</p>
       </li>
       <li>
-      <a href="{{ site.projectname }}/programs/cultural-development/">Cultural Development Programs</a>
+      <a href="{{ site.url }}/programs/cultural-development/">Cultural Development Programs</a>
       <p style="font-weight: normal;">Au Co organizes and sponsors annual traditional cultural events.</p>
       </li>
-      <li><a href="{{ site.projectname }}/programs/leadership-development/">Leadership Development Programs</a>
+      <li><a href="{{ site.url }}/programs/leadership-development/">Leadership Development Programs</a>
       <p style="font-weight: normal;">Develop leadership skills through participation in activities in communities.</p>
       </li>
       <li>
-      <a href="{{ site.projectname }}/programs/for-seniors/">Au Co's Programs for Seniors</a>
+      <a href="{{ site.url }}/programs/for-seniors/">Au Co's Programs for Seniors</a>
       <p style="font-weight: normal;">Au Co provides special programs for seniors for maintaining good health, and promoting cultural awareness and understanding between the older and younger generations.</p>
       </li>
 </ul>
