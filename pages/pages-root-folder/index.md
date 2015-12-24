@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: seaaccsf-home-eng-banner.jpg
+  image_fullwidth: aucocenter-home-banner.jpg
 widget3:
   title: "MISSION STATEMENT"
   url: '/english/mission-statement/'
