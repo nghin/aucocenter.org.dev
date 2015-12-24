@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Au Co Vietnamese Cultural Center"
 permalink: "/contact/"
 header:
-    image_fullwidth: "seaaccsf-home-eng-banner.jpg"
+    image_fullwidth: "aucocenter-home-banner.jpg"
 ---
 
 <img width="150" src="{{ site.urlimg }}auco-logo.png">
