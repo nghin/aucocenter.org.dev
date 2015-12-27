@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival 2015"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "On September 26th, 2015, we invite you to attend the fifth Southeast Asian Arts & Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin."
@@ -12,8 +12,6 @@ categories:
 ---
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
-
-<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 ### Updated information after the festival
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">

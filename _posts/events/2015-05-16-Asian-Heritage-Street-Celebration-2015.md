@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Asian Heritage Street Celebration - 2015"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Explore the museum for free as a part of this annual program held during the Asian Heritage Street Celebration."
@@ -12,8 +12,6 @@ categories:
 ---
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
-
-<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 Saturday, May 16, 11 AM–3:30 PM
 art activities: 11 AM–3 PM; Southeast Asian Cultural Showcase: 12:30–1:30 pm; CAAM cinema showcase: 2:30–3:30 PM

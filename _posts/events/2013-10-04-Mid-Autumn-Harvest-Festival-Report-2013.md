@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival Report - 2013"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "On the 14th of September 2013, the Southeast Asian Arts & Culture Coalition held its 3rd Annual Mid-Autumn Harvest Festival at the Tenderloin Recreation Center. The coalition comprises of a number of Bay Area organizations and its leaders representing the Burmese, Cambodian, Laotian, Thai and Vietnamese community."
@@ -10,8 +10,6 @@ categories:
 ---
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
-
-<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 SEAACC’s mission is to advance the visibility and vitality of each Southeast Asian culture through various educational, social, and cultural activities with an aim to strengthen relationships between Southeast Asian communities in the San Francisco Bay Area. The festival we have today demonstrates just that. It brings together people near and far, from all walks of life to celebrate the beauty of the Southeast Asian heritage. You can see people young and old come together despite cultural differences, to support a greater purpose of strengthening relationships between people and cultures.
 
