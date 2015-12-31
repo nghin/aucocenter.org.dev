@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival 2013"
-meta_teaser: "Southeast Asian Arts & Culture Coalition"
+meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "This holiday also has a huge emphasis on children. Because the summer’s harvest consisted of long hours of labor in the rice fields, it was thought that the festival helped many parents spend more time with their children and loved ones. In terms of food served at the festival, mooncakes have a cultural significance during this holiday. In ancient folklore, many believe that mooncakes were used to conceal secret messages during wartime. Mooncakes have a distinct flavor, and is made up of mainly egg yolk, lotus seeds, and ground beans."
 header: no
 image:
