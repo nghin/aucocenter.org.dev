@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival 2013"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "This holiday also has a huge emphasis on children. Because the summer’s harvest consisted of long hours of labor in the rice fields, it was thought that the festival helped many parents spend more time with their children and loved ones. In terms of food served at the festival, mooncakes have a cultural significance during this holiday. In ancient folklore, many believe that mooncakes were used to conceal secret messages during wartime. Mooncakes have a distinct flavor, and is made up of mainly egg yolk, lotus seeds, and ground beans."
@@ -12,8 +12,6 @@ categories:
 ---
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
-
-<img width="424" src="{{ site.urlimg }}/auco-logo.png">
 
 <p style="font-style: italic; font-weight: bold; font-size: 1.0em">
 Date and time: Sept 14th, 2013, 11am-4pm<br />
