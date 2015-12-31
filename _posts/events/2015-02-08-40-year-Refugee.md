@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "40 Years Refugees Exhibition"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "An Exhibition to Commemorate Vietnamese Resettlement in the US. This exhibition marks the 40th anniversary of the diaspora of the Vietnamese people and refugee resettlement.  It includes stories of loss, of cultural identities of different generations struggling to co-exist, and of the process of rebuilding a new life in a foreign environment.  This exhibition shares the refugee experience by celebrating the progress of the Vietnamese people worldwide through photography, historical artifacts, a speaker panel, and cultural performances.  Speakers will include Mr. Dieu Khuong Huu, Mr. Phu Van Bui, and Ms. My Linh Nguyen, and cultural performers include the Su Viet Zithers and Master Vu Hong Thinh."
@@ -13,12 +13,12 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-## 40 Years - An Exhibition to Commemorate Vietnamese Resettlement in the US
+### 40 Years - An Exhibition to Commemorate Vietnamese Resettlement in the US
  
 <p style="padding-left: 15px;"><em><strong>
-Sunday, February 8, 2015
-1 PM - 3:30PM
-Koret Auditorium
+Sunday, February 8, 2015<br />
+1 PM - 3:30PM<br />
+Koret Auditorium<br />
 San Francisco Public Library, 100 Larkin Street, San Francisco, CA94102
 </strong></em></p>
  
@@ -49,7 +49,7 @@ For more information, please contact:
 - Mr. Sirch Chanthyasack at (415) 680-4027,
 - or contact@seaacc-sf.org
 
-<img width="100%" src="http://74.220.215.61/~seaaccsf/en/images/2015/MAHF/Poster_web.jpg">
+<img width="100%" src="{{ site.url }}/images/40th-CVRR-Poster-English.jpg">
 
 {% include next-previous-post-in-category %}
 
