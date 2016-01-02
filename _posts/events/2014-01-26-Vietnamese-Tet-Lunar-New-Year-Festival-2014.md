@@ -5,6 +5,8 @@ title: "Vietnamese Tet Lunar New Year Festival - 2014"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "The Lunar New Year festival is based on the Lunar Calendar that many Eastern countries have followed in the past, where the New Year begins in February. This is different than the modern Western calendar where the New Year begins on January 1st."
 header: no
+image:
+    thumb: Tet-2014-thumb.jpg
 categories:
     - events
 ---

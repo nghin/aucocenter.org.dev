@@ -5,6 +5,8 @@ title: "Mid-Autumn Harvest Festival Report - 2013"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "On the 14th of September 2013, the Southeast Asian Arts & Culture Coalition held its 3rd Annual Mid-Autumn Harvest Festival at the Tenderloin Recreation Center. The coalition comprises of a number of Bay Area organizations and its leaders representing the Burmese, Cambodian, Laotian, Thai and Vietnamese community."
 header: no
+image:
+    thumb: MAHF-Report-2013-thumb.jpg
 categories:
     - events
 ---
