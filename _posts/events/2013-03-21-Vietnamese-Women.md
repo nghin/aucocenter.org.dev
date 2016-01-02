@@ -5,6 +5,8 @@ title: "Vietnamese Women in Arts & History"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "The roles of the Vietnamese women in arts and history."
 header: no
+image:
+    thumb: Thi-Ca-Su-Viet-2013-thumb.jpg
 categories:
     - events
 ---
