@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Blog
+- title: "Events Blog"
   url: "/blog/"
   side: left
   dropdown:

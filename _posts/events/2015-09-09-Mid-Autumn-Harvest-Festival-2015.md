@@ -13,7 +13,6 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-### Updated information after the festival
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
 <tbody>
 <tr style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
