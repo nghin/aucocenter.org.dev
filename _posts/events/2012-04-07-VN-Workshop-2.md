@@ -26,7 +26,7 @@ Topics to be covered:<br />
 &#8226;The Second Republic of Vietnam<br />
 &#8226;The Paris Accords and consequenses<br />
 </div>
-</p>
+</p><p>&nbsp;</p>
 
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
 <tbody>
