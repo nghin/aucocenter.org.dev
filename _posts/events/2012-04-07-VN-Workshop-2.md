@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
 subheadline: "Past Event"
-title: "Vietnam Workshop Series - Part 3 - 2012"
+title: "Vietnam Workshop Series - Part 2 - 2012"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
-teaser: "Part 3 of the Vietnam Workshop Series: \"The Vietnam War: Economy & Politics.\""
+teaser: "Part 2 of the Vietnam Workshop Series: \"The Vietnam War: From 1954 to 1975.\""
 header: no
 image:
-    thumb: VN-Workshop-part-3-thumb.jpg
+    thumb: VN-Workshop-part-2-thumb.jpg
 categories:
     - events
 ---
@@ -15,7 +15,7 @@ categories:
 
 ## The Formation of the Vietnamese Communities Abroad
 
-This is part 3 of the Vietnam Workshop Series by the Au Co Vietnamese Cultural Center in San Francisco. This event took at 11 am, Saturday April 21st, 2012 at the Martin Luther King Jr. High School in San Francisco with special speaker Mr. Khuong Huu Dieu who had held important positions in the Republic of Vietnam government such as Vice Minister of Economics, General Manager of the Industrial Development Bank. It aims to inform the younger Vietnamese generation of a system of politics and economy that existed before 1975.
+This is part 2 of the Vietnam Workshop Series by the Au Co Vietnamese Cultural Center in San Francisco. This event took at 11 am, Saturday April 7th, 2012 at the Martin Luther King Jr. High School in San Francisco with special speaker former Lieutenant General Lam Quang Thi who covered the topic of The Vietnam War after the Paris Convention from 1954 to 1975 during the First and Second Republic of Vietnam . It aims to inform the younger Vietnamese generation of this important period in the history of their homeland.
 
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
 <tbody>
