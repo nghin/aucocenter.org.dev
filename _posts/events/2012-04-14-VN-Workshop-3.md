@@ -13,8 +13,6 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-## The Formation of the Vietnamese Communities Abroad
-
 This is part 3 of the Vietnam Workshop Series by the Au Co Vietnamese Cultural Center in San Francisco. This event took at 11 am, Saturday April 21st, 2012 at the Martin Luther King Jr. High School in San Francisco with special speaker Mr. Khuong Huu Dieu who had held important positions in the Republic of Vietnam government such as Vice Minister of Economics, General Manager of the Industrial Development Bank. It aims to inform the younger Vietnamese generation of a system of politics and economy that existed before 1975.
 
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
