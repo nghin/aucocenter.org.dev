@@ -24,7 +24,7 @@ Topics to be covered:<br />
 <div style="padding-left: 15px;">
 &#8226;The First Republic of Vietnam<br />
 &#8226;The Second Republic of Vietnam<br />
-&#8226;The Paris Accords and consequenses
+&#8226;The Paris Accords and consequenses<br />
 </div>
 </p>
 
